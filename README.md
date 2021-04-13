@@ -1,5 +1,5 @@
 # ITCS424_Wireless and Mobile Computing
-## Semster Project - Rater Application
+## Semester Project - Rater Application
 ### Member:
 #### 1. Miss Sumuna        Thaijia                6188024        Sec 2
 #### Email: sumuna.tha@student.mahidol.edu
